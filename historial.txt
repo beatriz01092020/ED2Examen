@@ -1,0 +1,1000 @@
+ 1046  ./a.out 
+ 1047  vim ejercicio10.c 
+ 1048  gcc ejercicio10.c 
+ 1049  ./a.out 
+ 1050  mkdir for
+ 1051  cp *.c for
+ 1052  ls
+ 1053  ls for
+ 1054  rm *.c
+ 1055  ls
+ 1056  ls fr
+ 1057  ls for/
+ 1058  rm a.out 
+ 1059  mkdir while
+ 1060  cd while/
+ 1061  vim ejercicio1.c
+ 1062  cp ../../plantilla.c ./ejercicio1.c
+ 1063  vim ejercicio1.c 
+ 1064  gcc ejercicio1.c 
+ 1065  vim ejercicio1.c 
+ 1066  gcc ejercicio1.c 
+ 1067  vim ejercicio1.c 
+ 1068  gcc ejercicio1.c 
+ 1069  vim ejercicio1.c 
+ 1070  gcc ejercicio1.c 
+ 1071  ./a.out 
+ 1072  vim ejercicio1.c 
+ 1073  gcc ejercicio1.c 
+ 1074  ./a.out 
+ 1075  vim ejercicio1.c 
+ 1076  cp ejercicio1.c ejercicio2.c 
+ 1077  vim ejercicio2.c 
+ 1078  gcc ejercicio2.c 
+ 1079  vim ejercicio2.c 
+ 1080  gcc ejercicio2.c 
+ 1081  vim ejercicio2.c 
+ 1082  gcc ejercicio2.c 
+ 1083  ./a.out 
+ 1084  vim ejercicio2.c 
+ 1085  gcc ejercicio2.c 
+ 1086  ./a.out 
+ 1087  vim ejercicio2.c 
+ 1088  cd ..
+ 1089  cd for/
+ 1090  vim ejercicio5.c 
+ 1091  cd ../while/
+ 1092  ls
+ 1093  vim ejercicio2.c 
+ 1094  cd
+ 1095  cd repositorios/DAM/Primero/Programación/Ejercicios_str_clase/
+ 1096  ls
+ 1097  vim ej3.c 
+ 1098  gcc ej3.c 
+ 1099  vim ej3.c 
+ 1100  gcc ej3.c 
+ 1101  ./a.out 
+ 1102  vim ej3.c 
+ 1103  gcc ej3.c 
+ 1104  ./a.out 
+ 1105  vim ej3.c 
+ 1106  gcc ej3.c 
+ 1107  ./a.out 
+ 1108  vim ej3.c 
+ 1109  gcc ej3.c 
+ 1110  vim ej3.c 
+ 1111  gcc ej3.c 
+ 1112  ./a.out 
+ 1113  vim ej3.c 
+ 1114  gcc ej3.c 
+ 1115  vim ej3.c 
+ 1116  gcc ej3.c 
+ 1117  ./a.out 
+ 1118  vim ej3.c 
+ 1119  gcc ej3.c 
+ 1120  vim ej3.c 
+ 1121  gcc ej3.c 
+ 1122  ./a.out 
+ 1123  vim ej3.c 
+ 1124  ./a.out 
+ 1125  vim ej3.c 
+ 1126  gcc ej3.c 
+ 1127  ./a.out 
+ 1128  vim ej3.c 
+ 1129  gcc ej3.c 
+ 1130  ./a.out 
+ 1131  vim ej3.c 
+ 1132  ./a.out 
+ 1133  gcc -g ej3.c 
+ 1134  gdb a.out
+ 1135  tmux
+ 1136  cd ~/repositorios/DAM/
+ 1137  git status
+ 1138  vim ./Primero/Programación/Bucles/for/ejercicio10.c 
+ 1139  git status
+ 1140  git commit -m "fin de clase 23/10/2024"
+ 1141  git push
+ 1142  exit
+ 1143  cd repositorios/DAM/
+ 1144  git pull
+ 1145  cd Primero/Programación/Bucles/while/
+ 1146  ls
+ 1147  vim ejercicio
+ 1148  vim ejercicio1.c 
+ 1149  vim ejercicio2.c 
+ 1150  gcc ejercicio2.c 
+ 1151  vim ejercicio2.c 
+ 1152  gcc ejercicio2.c 
+ 1153  ./a.out 
+ 1154  gcc -g ejercicio2.c 
+ 1155  gdb a.out
+ 1156  vim ejercicio2.c 
+ 1157  cp ejercicio1.c ejercicio3.c
+ 1158  vim ejercicio3
+ 1159  vim ejercicio3.c 
+ 1160  vim ejercicio2.c 
+ 1161  gcc ejercicio2.c 
+ 1162  vim ejercicio2.c 
+ 1163  gcc ejercicio2.c 
+ 1164  ./a.out 
+ 1165  vim ejercicio2.c 
+ 1166  gcc ejercicio2.c 
+ 1167  ./a.out 
+ 1168  vim ejercicio3.c 
+ 1169  cp ejercicio2.c ejercicio3.c 
+ 1170  vim ejercicio3.c 
+ 1171  vim ejercicio2.c 
+ 1172  vim ejercicio3.c 
+ 1173  gcc ejercicio3.c 
+ 1174  ./a.out 
+ 1175  vim ejercicio3.c 
+ 1176  gcc ejercicio3.c 
+ 1177  ./a.out 
+ 1178  vim ejercicio3.c 
+ 1179  gcc ejercicio3.c 
+ 1180  ./a.out 
+ 1181  cp ejercicio2.c ejercicio4.c
+ 1182  vim ejercicio4.c 
+ 1183  gcc ejercicio4.c 
+ 1184  ./a.out 
+ 1185  vim ejercicio2.c 
+ 1186  vim ejercicio4.c 
+ 1187  cp ejercicio2.c ejercicio5.c
+ 1188  vim ejercicio5.c 
+ 1189  gcc ejercicio5.c 
+ 1190  vim ejercicio5.c 
+ 1191  gcc ejercicio5.c 
+ 1192  ./a.out 
+ 1193  vim ejercicio5.c 
+ 1194  cp ejercicio5.c ejercicio6.c
+ 1195  vim ejercicio6.c 
+ 1196  gcc ejercicio6.c 
+ 1197  ./a.out 
+ 1198  cp ejercicio6.c ejercicio7.c
+ 1199  ./a.out 
+ 1200  vim ejercicio7.c 
+ 1201  gcc ejercicio7.c 
+ 1202  ./a.out 
+ 1203  vim ejercicio7.c 
+ 1204  ./a.out 
+ 1205  cp ejercicio7.c ejercicio8.c
+ 1206  vim ejercicio8.c 
+ 1207  gcc ejercicio8.c 
+ 1208  ./a.out 
+ 1209  vim ejercicio8.c 
+ 1210  cp ejercicio8.c ejercicio9.c
+ 1211  vim ejercicio9.c 
+ 1212  gcc ejercicio9.c 
+ 1213  vim ejercicio9.c 
+ 1214  gcc ejercicio9.c 
+ 1215  vim ejercicio9.c 
+ 1216  gcc ejercicio9.c 
+ 1217  ./a.out 
+ 1218  cp ejercicio9.c ejercicio10.c
+ 1219  vim ejercicio10.c 
+ 1220  cp ejercicio8.c ejercicio10.c
+ 1221  vim ejercicio10.c 
+ 1222  gcc ejercicio10.c 
+ 1223  vim ejercicio10.c 
+ 1224  gcc ejercicio10.c 
+ 1225  vim ejercicio10.c 
+ 1226  gcc ejercicio10.c 
+ 1227  ./a.out 
+ 1228  ls
+ 1229  cd
+ 1230  cd repositorios/DAM/
+ 1231  git status 
+ 1232  git add .
+ 1233  git status 
+ 1234  git commit -m "Clase 25/10/2024"
+ 1235  git push
+ 1236  cd repositorios/DAM/
+ 1237  git pull
+ 1238  cd Primero/Programación/
+ 1239  ls
+ 1240  clear
+ 1241  cd Bucles/while/
+ 1242  vim ejercicio2.c 
+ 1243  vim ejercicio3.c 
+ 1244  cd ..
+ 1245  cd Ejercicios_str_clase/
+ 1246  ls
+ 1247  vim ej3.c 
+ 1248  gcc ej3.c 
+ 1249  ./a.out 
+ 1250  vim ej3.c 
+ 1251  gcc ej3.c 
+ 1252  ./a.out 
+ 1253  vim ej3.c 
+ 1254  gcc ej3.c 
+ 1255  ./a.out 
+ 1256  vim ej3.c 
+ 1257  gcc ej3.c 
+ 1258  ./a.out 
+ 1259  vim ej3.c 
+ 1260  gcc ej3.c 
+ 1261  vim ej3.c 
+ 1262  gcc ej3.c 
+ 1263  git commit -m "clase 29/10/2024"
+ 1264  git add .
+ 1265  git commit -m "clase 29/10/2024"
+ 1266  git status
+ 1267  git push
+ 1268  tmux
+ 1269  ls
+ 1270  cd repositorios/DAM/
+ 1271  git pull
+ 1272  git clone git@github.com:ainhoalm05/Trabajo1_AntonioD_AinhoaL.git
+ 1273  ls
+ 1274  cd Trabajo1_AntonioD_AinhoaL/
+ 1275  ls
+ 1276  cd Practicas/
+ 1277  ls
+ 1278  vim ª
+ 1279  vim Practica1.c
+ 1280  git status
+ 1281  rm ª
+ 1282  ls
+ 1283  rm Practica1.out 
+ 1284  rm a.out 
+ 1285  ls
+ 1286  git pull
+ 1287  git status
+ 1288  git commit -m "limpieza de archivos"
+ 1289  git add .
+ 1290  git status
+ 1291  git commit -m "limpieza de archivos"
+ 1292  git push
+ 1293  cd repositorios/
+ 1294  git clone git@github.com:ainhoalm05/Trabajo1_AntonioD_AinhoaL.git
+ 1295  cd Trabajo1_AntonioD_AinhoaL/Practicas/
+ 1296  ls
+ 1297  vim Practica1.c 
+ 1298  vim Practica2.c 
+ 1299  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1300  cd Practicas/
+ 1301  ls
+ 1302  vim Practica2.c 
+ 1303  gcc Practica2.c 
+ 1304  vim Practica2.c 
+ 1305  gcc Practica2.c 
+ 1306  ./a.out 
+ 1307  vim Practica2.c 
+ 1308  gcc Practica2.c 
+ 1309  ./a.out 
+ 1310  vim Practica2.c 
+ 1311  ./a.out 
+ 1312  gcc -g Practica2.c 
+ 1313  gdb a.out
+ 1314  vim Practica2.c 
+ 1315  gcc Practica2.c 
+ 1316  vim Practica2.c 
+ 1317  gcc Practica2.c 
+ 1318  ./a.out 
+ 1319  git status
+ 1320  vim Practica2.c 
+ 1321  git add .
+ 1322  git commit -m "Práctica 2 completada"
+ 1323  git push
+ 1324  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1325  cd Practicas/
+ 1326  ls
+ 1327  cd
+ 1328  cd repositorios/
+ 1329  ls
+ 1330  git clone git@github.com:VicdeJuan/DAM.git
+ 1331  mkdir Victor
+ 1332  cd Victor/
+ 1333  git clone git@github.com:VicdeJuan/DAM.git
+ 1334  cd ../Trabajo1_AntonioD_AinhoaL/
+ 1335  git status
+ 1336  cd ../DAM/Primero/Programación/
+ 1337  mkdir structs
+ 1338  cd structs/
+ 1339  cp ../plantilla.c ./ej1.c
+ 1340  vim ej1.c 
+ 1341  gcc ej1.c 
+ 1342  vim ej1.c 
+ 1343  gcc ej1.c 
+ 1344  vim ej1.c 
+ 1345  gcc ej1.c 
+ 1346  vim ej1.c 
+ 1347  gcc ej1.c 
+ 1348  vim ej1.c 
+ 1349  gcc ej1.c 
+ 1350  ./a.out 
+ 1351  vim ej1.c 
+ 1352  gcc ej1.c 
+ 1353  ./a.out 
+ 1354  vim ej1.c 
+ 1355  cd
+ 1356  cd repositorios/DAM/
+ 1357  git status 
+ 1358  git add .
+ 1359  cd ../Trabajo1_AntonioD_AinhoaL/
+ 1360  git pull
+ 1361  git status 
+ 1362  git add .
+ 1363  git commit -m "Final clase 05/11/24"
+ 1364  git push
+ 1365  cd
+ 1366  cd repositorios/DAM/
+ 1367  git statu
+ 1368  git status
+ 1369  git commit -m "Final clase 05/11/24"
+ 1370  git push
+ 1371  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1372  git pull
+ 1373  cd Practicas/
+ 1374  vim Practica2.c 
+ 1375  vim Ejercicio2.c
+ 1376  cp plantilla.c Ejercicio2.c
+ 1377  vim Ejercicio2.c 
+ 1378  gcc Ejercicio2.c 
+ 1379  vim Ejercicio2.c 
+ 1380  gcc Ejercicio2.c 
+ 1381  vim Ejercicio2.c 
+ 1382  gcc Ejercicio2.c 
+ 1383  vim Ejercicio2.c 
+ 1384  gcc Ejercicio2.c 
+ 1385  vim Ejercicio2.c 
+ 1386  gcc Ejercicio2.c 
+ 1387  vim Ejercicio2.c 
+ 1388  cd ~/repositorios/DAM/Primero/Programación/Ejercicios_str_clase/
+ 1389  ls
+ 1390  vim ej1.c 
+ 1391  vim ej3.c 
+ 1392  cd
+ 1393  cd repositorios/Trabajo1_AntonioD_AinhoaL/Practicas/
+ 1394  vim Ejercicio2.c 
+ 1395  cd  repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1396  git pull
+ 1397  cd Practicas/
+ 1398  ls
+ 1399  cd
+ 1400  sudo apt update; sudo apt upgrade -y
+ 1401  cd repositorios/Trabajo1_AntonioD_AinhoaL/Practicas/
+ 1402  ls
+ 1403  vim Ejercicio2.c 
+ 1404  gcc Ejercicio2.c 
+ 1405  vim Ejercicio2.c 
+ 1406  ./a.out 
+ 1407  vim Ejercicio2.c 
+ 1408  gcc Ejercicio2.c 
+ 1409  ./a.out 
+ 1410  vim Ejercicio2.c 
+ 1411  ./a.out 
+ 1412  vim Ejercicio2.c 
+ 1413  gcc Ejercicio2.c 
+ 1414  ./a.out 
+ 1415  vim Ejercicio2.c 
+ 1416  gcc Ejercicio2.c 
+ 1417  vim Ejercicio2.c 
+ 1418  gcc Ejercicio2.c 
+ 1419  ./a.out 
+ 1420  vim Ejercicio2.c 
+ 1421  gcc Ejercicio2.c 
+ 1422  vim Ejercicio2.c 
+ 1423  gcc Ejercicio2.c 
+ 1424  vim Ejercicio2.c 
+ 1425  gcc Ejercicio2.c 
+ 1426  vim Ejercicio2.c 
+ 1427  gcc Ejercicio2.c 
+ 1428  vim Ejercicio2.c 
+ 1429  gcc Ejercicio2.c 
+ 1430  ./a.out 
+ 1431  vim Ejercicio2.c 
+ 1432  gcc Ejercicio2.c 
+ 1433  ./a.out 
+ 1434  vim Ejercicio2.c 
+ 1435  cd ../..
+ 1436  git status
+ 1437  cd Trabajo1_AntonioD_AinhoaL/
+ 1438  git status 
+ 1439  git add .
+ 1440  git commit -m "Ejercicio 2 resuelto"
+ 1441  git push
+ 1442  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1443  git pull
+ 1444  CD 
+ 1445  cd
+ 1446  cd repositorios/DAM/Primero/Programación/
+ 1447  mkdir punteros
+ 1448  cd punteros/
+ 1449  vim ejemplo.c
+ 1450  cp ../plantilla.c ./ejemplo.c
+ 1451  vim ejemplo.c 
+ 1452  gcc ejemplo.c 
+ 1453  ./a.out 
+ 1454  cd ..
+ 1455  ls
+ 1456  cd structs/
+ 1457  vim ej1.c 
+ 1458  cp ../plantilla.c ./ej2.c
+ 1459  vim ej2.c 
+ 1460  gcc ej2.c 
+ 1461  vim ej2.c 
+ 1462  gcc ej2.c 
+ 1463  vim ej2.c 
+ 1464  gcc ej2.c 
+ 1465  vim ej2.c 
+ 1466  gcc ej2.c 
+ 1467  vim ej2.c 
+ 1468  gcc ej2.c 
+ 1469  vim ej2.c 
+ 1470  gcc ej2.c 
+ 1471  vim ej2.c 
+ 1472  gcc ej2.c 
+ 1473  vim ej2.c 
+ 1474  gcc ej2.c 
+ 1475  vim ej2.c 
+ 1476  gcc ej2.c 
+ 1477  ./a.out 
+ 1478  cd ..
+ 1479  cd punteros/
+ 1480  ./a.out 
+ 1481  vim ejemplo.c 
+ 1482  cd ..
+ 1483  cd structs/
+ 1484  cp ../plantilla.c ./ej3.c
+ 1485  vim ej3.c 
+ 1486  gc ej3.c 
+ 1487  gcc ej3.c 
+ 1488  vim ej3.c 
+ 1489  gcc ej3.c 
+ 1490  vim ej3.c 
+ 1491  gcc ej3.c 
+ 1492  vim ej3.c 
+ 1493  gcc ej3.c 
+ 1494  vim ej3.c 
+ 1495  gcc ej3.c 
+ 1496  vim ej3.c 
+ 1497  gcc ej3.c 
+ 1498  vim ej3.c 
+ 1499  gcc ej3.c 
+ 1500  vim ej3.c 
+ 1501  gcc ej3.c 
+ 1502  vim ej3.c 
+ 1503  gcc ej3.c 
+ 1504  vim ej3.c 
+ 1505  gcc ej3.c 
+ 1506  vim ej3.c 
+ 1507  gcc ej3.c 
+ 1508  vim ej3.c 
+ 1509  gcc ej3.c 
+ 1510  ./a.out 
+ 1511  gcc ej3.c 
+ 1512  vim ej3.c 
+ 1513  gcc ej3.c 
+ 1514  ./a.out 
+ 1515  vim ej3.c 
+ 1516  gcc ej3.c 
+ 1517  ./a.out 
+ 1518  vim ej3.c 
+ 1519  ./a.out 
+ 1520  vim ej3.c 
+ 1521  cd ..
+ 1522  cd Trabajo1_AntonioD_AinhoaL/
+ 1523  ls
+ 1524  cd Practicas/
+ 1525  ls
+ 1526  cd Trabajo1_AntonioD_AinhoaL/
+ 1527  cd repositorios/ T
+ 1528  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1529  cd Practicas/
+ 1530  vim Ejercicio2.c 
+ 1531  vim Practica1.c 
+ 1532  git status
+ 1533  vim Ejercicio2.c 
+ 1534  cd /mnt/c/Users/Dam/Desktop/practica3/
+ 1535  ls
+ 1536  vim CalculadoraFloatFunciones.c 
+ 1537  vim Capitalizador.c 
+ 1538  cd ..
+ 1539  cd P4_Antonio_Delgado/
+ 1540  ls
+ 1541  cd 4.1/
+ 1542  ls
+ 1543  vim descuentos.c 
+ 1544  vim edades.c 
+ 1545  ls
+ 1546  vim oddeven.c 
+ 1547  cd ..
+ 1548  cd 4.2
+ 1549  ls
+ 1550  vim calculadora.c 
+ 1551  vim dias_semana.c 
+ 1552  gcc dias_semana.c 
+ 1553  ls
+ 1554  vim evaluacion_notas.c 
+ 1555  cd
+ 1556  cd repositorios/
+ 1557  cd Trabajo1_AntonioD_AinhoaL/
+ 1558  git status
+ 1559  git pull
+ 1560  git add .
+ 1561  git commit -m "Final de clase 06/11/24"
+ 1562  git push
+ 1563  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1564  git pull
+ 1565  git status
+ 1566  ls
+ 1567  cd ..
+ 1568  ls
+ 1569  cp -r Trabajo1_AntonioD_AinhoaL/ Trabajo1_AntonioD_AinhoaL_BK
+ 1570  ls
+ 1571  cd Trabajo1_AntonioD_AinhoaL
+ 1572  ls
+ 1573  git status
+ 1574  git pull 
+ 1575  ls -la
+ 1576  cd .git/
+ 1577  ls
+ 1578  ls -la
+ 1579  git log
+ 1580  cd ..
+ 1581  ls -a
+ 1582  cp .git ~.git-old
+ 1583  cp .git ~/.git-old
+ 1584  cp -r .git ~/.git-old
+ 1585  git fsck --full
+ 1586  rm .git/objects/44/22db1fe77ddacff027b4e07b2b19a64c9d355c
+ 1587  cd ../DAM/
+ 1588  git status
+ 1589  rm .git/objects/44/22db1fe77ddacff027b4e07b2b19a64c9d355c
+ 1590  cd ../Trabajo1_AntonioD_AinhoaL
+ 1591  rm .git/objects/44/22db1fe77ddacff027b4e07b2b19a64c9d355c
+ 1592  git fsck --full 
+ 1593  rm .git/objects/55/0cb673f2e01af519a57ce8f75a0231c7b77dca
+ 1594  git fsck --full 
+ 1595  rm object file .git/objects/56/e4568fc7a486a2e1844e654b6b2ab7d0ceafa1
+ 1596  rm .git/objects/56/e4568fc7a486a2e1844e654b6b2ab7d0ceafa1
+ 1597  git fsck --full 
+ 1598  git reflog 
+ 1599  tail -n 2 .git/logs/refs/heads/master
+ 1600  cd .git/logs/refs/heads/
+ 1601  ls
+ 1602  tail -n 2 .git/logs/refs/heads/main
+ 1603  cd
+ 1604  cd repositorios/Trabajo1_AntonioD_AinhoaL
+ 1605  tail -n 2 .git/logs/refs/heads/main
+ 1606  git show c1d58284812ed5f499da4f0816f9b2cd20d139d4
+ 1607  git update-ref HEAD c1d58284812ed5f499da4f0816f9b2cd20d139d4
+ 1608  git fsck --full 
+ 1609  rm .git/index
+ 1610  git reset
+ 1611  git fsck --full 
+ 1612  cd ..
+ 1613  rm -r Trabajo1_AntonioD_AinhoaL
+ 1614  y
+ 1615  ls
+ 1616  git clone git@github.com:ainhoalm05/Trabajo1_AntonioD_AinhoaL.git
+ 1617  ls
+ 1618  cd Trabajo1_AntonioD_AinhoaL
+ 1619  git status 
+ 1620  cd ..
+ 1621  mv Trabajo1_AntonioD_AinhoaL_BK/ ../.Trabajo1_AntonioD_AinhoaL
+ 1622  ls
+ 1623  cd ..
+ 1624  ls
+ 1625  ls -a
+ 1626  rm -ry .git-old/
+ 1627  rm -r .git-old/
+ 1628  y
+ 1629  rm -r .git-old/
+ 1630  ls -a
+ 1631  exit
+ 1632  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1633  git status
+ 1634  cd Practicas/
+ 1635  ls
+ 1636  vim plantilla.c 
+ 1637  cp plantilla.c  Ejercicio1.c
+ 1638  vim Ejercicio1.c 
+ 1639  gcc Ejercicio1.c 
+ 1640  ./a.out 
+ 1641  vim Ejercicio1.c 
+ 1642  gcc Ejercicio1.c 
+ 1643  vim Ejercicio1.c 
+ 1644  vim Practica3.c 
+ 1645  gcc Practica3.c 
+ 1646  vim Practica3.c 
+ 1647  gcc Practica3.c 
+ 1648  vim Practica3.c 
+ 1649  gcc Practica3.c 
+ 1650  ./a.out 
+ 1651  vim Practica3.c 
+ 1652  gcc Practica3.c 
+ 1653  ./a.out 
+ 1654  vim Practica3.c 
+ 1655  gcc Practica3.c 
+ 1656  ./a.out 
+ 1657  s
+ 1658  vim Practica3.c 
+ 1659  gcc Practica3.c 
+ 1660  ./a.out 
+ 1661  vim Practica3.c 
+ 1662  gcc Practica3.c 
+ 1663  ./a.out 
+ 1664  vim Practica3.c 
+ 1665  gcc Practica3.c 
+ 1666  ./a.out 
+ 1667  vim Practica3.c 
+ 1668  gcc -g Practica3.c 
+ 1669  gdb a.out
+ 1670  vim Practica3.c 
+ 1671  cd
+ 1672  vim l.c
+ 1673  gcc l.c 
+ 1674  vim l.c
+ 1675  gcc l.c 
+ 1676  ./a.out 
+ 1677  vim l.c
+ 1678  gcc l.c 
+ 1679  ./a.out 
+ 1680  vim l.c
+ 1681  gcc l.c 
+ 1682  ./a.out 
+ 1683  rm l.c 
+ 1684  rm a.out 
+ 1685  ls
+ 1686  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1687  cd Practicas/
+ 1688  vim Practica3.c 
+ 1689  gcc Practica
+ 1690  gcc Practica3.c 
+ 1691  ./a.out 
+ 1692  vim Practica3.c 
+ 1693  gcc Practica3.c 
+ 1694  ./a.out 
+ 1695  vim Practica3.c 
+ 1696  gcc Practica3.c 
+ 1697  ./a.out 
+ 1698  vim Practica3.c 
+ 1699  gcc Practica3.c 
+ 1700  vim Practica3.c 
+ 1701  gcc Practica3.c 
+ 1702  ./a.out 
+ 1703  vim Practica3.c 
+ 1704  gcc Practica3.c 
+ 1705  vim Practica3.c 
+ 1706  gcc Practica3.c 
+ 1707  vim Practica3.c 
+ 1708  gcc Practica3.c 
+ 1709  ./a.out 
+ 1710  vim Practica3.c 
+ 1711  vim Ejercicio1.c 
+ 1712  gcc Ejercicio1.c 
+ 1713  ./a.out 
+ 1714  vim Ejercicio1.c 
+ 1715  vim Practica3.c 
+ 1716  gcc Practica3.c 
+ 1717  ./a.out 
+ 1718  vim Practica3.c 
+ 1719  gcc Practica3.c 
+ 1720  ./a.out 
+ 1721  vim Practica3.c 
+ 1722  gcc Practica3.c 
+ 1723  ./a.out 
+ 1724  cd ..
+ 1725  git status
+ 1726  git add .
+ 1727  git commit -m "Ejercicio 1 creado. Práctica 3 reponer y buscar por normbre"
+ 1728  git pull
+ 1729  git config pull.rebase false
+ 1730  git pull
+ 1731  vim ./Practicas/Practica3.c 
+ 1732  cd Practicas/
+ 1733  gcc Practica3.c 
+ 1734  ./a.out 
+ 1735  vim Practica3.c 
+ 1736  vim Ejercicio1.c 
+ 1737  vim Ejercicio2.c 
+ 1738  vim Ejercicio1.c 
+ 1739  vim Ejercicio2.c 
+ 1740  vim Practica3.c 
+ 1741  cd ..
+ 1742  git status
+ 1743  git add .
+ 1744  git status
+ 1745  git commit -m "Fusión de contenidos práctica 3"
+ 1746  git push
+ 1747  git pull
+ 1748  exit
+ 1749  tmux
+ 1750  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1751  git pull
+ 1752  LS
+ 1753  ls
+ 1754  cd P5_AntonioDelgado_Ainhoa_Leonor/
+ 1755  cd Ejercicios/
+ 1756  vim Ejercicio1
+ 1757  vim Ejercicio1.c 
+ 1758  gcc Ejercicio1.c 
+ 1759  ./a.out 
+ 1760  vim Ejercicio1.c 
+ 1761  gcc Ejercicio1.c 
+ 1762  ./a.out 
+ 1763  vim Ejercicio1.c 
+ 1764  gcc -g
+ 1765  gcc -g Ejercicio1.c 
+ 1766  gdb a.out
+ 1767  vim Ejercicio1.c 
+ 1768  gcc Ejercicio1.c 
+ 1769  ./a.out 
+ 1770  vim Ejercicio1.c 
+ 1771  gcc Ejercicio1.c 
+ 1772  vim Ejercicio1.c 
+ 1773  gcc Ejercicio1.c 
+ 1774  ./a.out 
+ 1775  vim Ejercicio1.c 
+ 1776  gcc Ejercicio1.c 
+ 1777  ./a.out 
+ 1778  vim Ejercicio1.c 
+ 1779  git status
+ 1780  git add .
+ 1781  git commit -m "fin de clase 12/11/24"
+ 1782  git push
+ 1783  git status
+ 1784  exit
+ 1785  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1786  git pull
+ 1787  cd P5_AntonioDelgado_Ainhoa_Leonor/Practicas/
+ 1788  vim Practica3.c 
+ 1789  cd ..
+ 1790  ls
+ 1791  cd ..
+ 1792  ls
+ 1793  cd P5_AntonioDelgado_Ainhoa_Leonor/
+ 1794  cd ..
+ 1795  cd
+ 1796  cd repositorios/Trabajo1_AntonioD_AinhoaL/P5_AntonioDelgado_Ainhoa_Leonor/
+ 1797  mkdir EXP5_Antonio_Delgado
+ 1798  cp Practicas/ EXP5_Antonio_Delgado/Prácticas
+ 1799  cp -r Practicas/ EXP5_Antonio_Delgado/Prácticas
+ 1800  cp -r Ejercicios/ EXP5_Antonio_Delgado/Ejercicios
+ 1801  cd EXP5_Antonio_Delgado/
+ 1802  ls
+ 1803  mkdir Examen
+ 1804  cp Ejercicios/Ejercicio1.c ./Examen/
+ 1805  cd Examen/
+ 1806  vim Ejercicio1.c 
+ 1807  cp ../Ejercicios/Ejercicio2.c ./Ejercicio2.c
+ 1808  vim Ejercicio2.c 
+ 1809  gcc Ejercicio2.c 
+ 1810  vim Ejercicio2.c 
+ 1811  gcc Ejercicio2.c 
+ 1812  vim Ejercicio2.c 
+ 1813  gcc Ejercicio2.c 
+ 1814  vim Ejercicio2.c 
+ 1815  gcc Ejercicio2.c 
+ 1816  vim Ejercicio2.c 
+ 1817  gcc Ejercicio2.c 
+ 1818  vim Ejercicio2.c 
+ 1819  gcc Ejercicio2.c 
+ 1820  ./a.out 
+ 1821  vim Ejercicio2.c 
+ 1822  gcc Ejercicio2.c 
+ 1823  ./a.out 
+ 1824  vim Ejercicio1.c 
+ 1825  gcc Ejercicio1.c 
+ 1826  ./a.out 
+ 1827  vim Ejercicio1.c 
+ 1828  gcc Ejercicio1.c 
+ 1829  ./a.out 
+ 1830  cp ../Prácticas/Practica1.c ./
+ 1831  vim Practica1.c 
+ 1832  gcc Practica1.c 
+ 1833  vim Practica1.c 
+ 1834  gcc Practica1.c 
+ 1835  ./a.out 
+ 1836  gcc Practica1.c 
+ 1837  vim Practica1.c 
+ 1838  gcc Practica1.c 
+ 1839  ./a.out 
+ 1840  vim Practica1.c 
+ 1841  gcc Practica1.c 
+ 1842  vim Practica1.c 
+ 1843  gcc Practica1.c 
+ 1844  ./a.out 
+ 1845  vim Practica1.c 
+ 1846  ./a.out 
+ 1847  vim Practica1.c 
+ 1848  gcc Practica1.c 
+ 1849  ./a.out 
+ 1850  vim Practica1.c 
+ 1851  gcc Practica1.c 
+ 1852  ./a.out 
+ 1853  cp ../Prácticas/Practica3.c ./
+ 1854  vim Practica3.c 
+ 1855  gcc Practica3.c 
+ 1856  ./a.out 
+ 1857  vim Practica3.c 
+ 1858  gcc Practica3.c 
+ 1859  ./a.out 
+ 1860  vim Practica3.c 
+ 1861  ls
+ 1862  vim Ejercicio1.c 
+ 1863  vim Practica1.c 
+ 1864  gcc Practica1.c 
+ 1865  ./a.out 
+ 1866  ls
+ 1867  mv Ejercicio1.c ./ex_ejercicio1.c
+ 1868  mv Ejercicio2.c ./ex_ejercicio2.c
+ 1869  mv Practica1.c ./ex_ejercicio3.c
+ 1870  mv Practica3.c ./ex_ejercicio4.c
+ 1871  ls
+ 1872  cd
+ 1873  cd repositorios/Trabajo1_AntonioD_AinhoaL/P5_AntonioDelgado_Ainhoa_Leonor/EXP5_Antonio_Delgado/
+ 1874  cd Examen/
+ 1875  ls
+ 1876  vim ex_ejercicio1.c 
+ 1877  vim ex_ejercicio2.c 
+ 1878  vim ex_ejercicio3.c 
+ 1879  vim ex_ejercicio4.c 
+ 1880  cd
+ 1881  cd repositorios/Trabajo1_AntonioD_AinhoaL/P5_AntonioDelgado_Ainhoa_Leonor/EXP5_Antonio_Delgado/Examen/
+ 1882  gcc ex_ejercicio1.c 
+ 1883  gcc ex_ejercicio2.c 
+ 1884  gcc ex_ejercicio3.c 
+ 1885  gcc ex_ejercicio4.c 
+ 1886  cd repositorios/Trabajo1_AntonioD_AinhoaL/
+ 1887  ls
+ 1888  git status
+ 1889  git add .
+ 1890  git commit -m "Examen práctica 5"
+ 1891  git push
+ 1892  cd
+ 1893  cd repositorios/DAM/Primero/Programación/
+ 1894  mkdir Punteros
+ 1895  cd Punteros/
+ 1896  cp ../plantilla.c 
+ 1897  cp ../plantilla.c ./
+ 1898  vim plantilla.c 
+ 1899  gcc plantilla.c 
+ 1900  ./a.out 
+ 1901  vim plantilla.c 
+ 1902  gcc plantilla.c 
+ 1903  ./a.out 
+ 1904  vim plantilla.c 
+ 1905  gcc plantilla.c 
+ 1906  ./a.out 
+ 1907  vim plantilla.c 
+ 1908  ./a.out 
+ 1909  vim plantilla.c 
+ 1910  gcc plantilla.c 
+ 1911  ./a.out 
+ 1912  vim plantilla.c 
+ 1913  gcc plantilla.c 
+ 1914  vim plantilla.c 
+ 1915  gcc plantilla.c 
+ 1916  ./a.out 
+ 1917  vim plantilla.c 
+ 1918  gcc plantilla.c 
+ 1919  ./a.out 
+ 1920  vim plantilla.c 
+ 1921  gcc plantilla.c 
+ 1922  vim plantilla.c 
+ 1923  gcc plantilla.c 
+ 1924  vim plantilla.c 
+ 1925  gcc plantilla.c 
+ 1926  ./a.out 
+ 1927  vim plantilla.c 
+ 1928  gcc plantilla.c 
+ 1929  ./a.out 
+ 1930  vim plantilla.c 
+ 1931  gcc plantilla.c 
+ 1932  ./a.out 
+ 1933  vim plantilla.c 
+ 1934  gcc plantilla.c 
+ 1935  ./a.out 
+ 1936  vim plantilla.c 
+ 1937  gcc plantilla.c 
+ 1938  ./a.out 
+ 1939  vim plantilla.c 
+ 1940  gcc plantilla.c 
+ 1941  vim plantilla.c 
+ 1942  gcc plantilla.c 
+ 1943  vim plantilla.c 
+ 1944  gcc plantilla.c 
+ 1945  ./a.out 
+ 1946  vim plantilla.c 
+ 1947  gcc plantilla.c 
+ 1948  vim plantilla.c 
+ 1949  gcc plantilla.c 
+ 1950  ./a.out 
+ 1951  vim plantilla.c 
+ 1952  gcc plantilla.c 
+ 1953  ./a.out 
+ 1954  vim plantilla.c 
+ 1955  gcc plantilla.c 
+ 1956  ./a.out 
+ 1957  vim plantilla.c 
+ 1958  gcc plantilla.c 
+ 1959  ./a.out 
+ 1960  vim plantilla.c 
+ 1961  gcc plantilla.c 
+ 1962  ./a.out 
+ 1963  vim plantilla.c 
+ 1964  gcc plantilla.c 
+ 1965  ./a.out 
+ 1966  vim plantilla.c 
+ 1967  gcc plantilla.c 
+ 1968  vim plantilla.c 
+ 1969  gcc plantilla.c 
+ 1970  vim plantilla.c 
+ 1971  gcc plantilla.c 
+ 1972  vim plantilla.c 
+ 1973  gcc plantilla.c 
+ 1974  ./a.out 
+ 1975  vim plantilla.c 
+ 1976  gcc plantilla.c 
+ 1977  ./a.out 
+ 1978  vim plantilla.c 
+ 1979  ./a.out 
+ 1980  vim plantilla.c 
+ 1981  gcc plantilla.c 
+ 1982  ./a.out 
+ 1983  vim plantilla.c 
+ 1984  gcc plantilla.c 
+ 1985  vim plantilla.c 
+ 1986  gcc plantilla.c 
+ 1987  vim plantilla.c 
+ 1988  gcc plantilla.c 
+ 1989  vim plantilla.c 
+ 1990  gcc plantilla.c 
+ 1991  ./a.out 
+ 1992  vim plantilla.c 
+ 1993  mv plantilla.c ejercicio4_punteros
+ 1994  cd
+ 1995  cd repositorios/DAM/
+ 1996  git status 
+ 1997  git add .
+ 1998  git commit -m "fin de clase 13/11/24"
+ 1999  git push
+ 2000  cd repositorios/
+ 2001  git clone git@github.com:beatriz01092020/ED2Examen.git
+ 2002  cd ED2Examen/
+ 2003  git branch
+ 2004  git branch antonio
+ 2005  git branch
+ 2006  git checkout antonio 
+ 2007  vim comandos.txt
+ 2008  ls
+ 2009  git branch
+ 2010  git commit -m "antoniov1"
+ 2011  git add .
+ 2012  git commit -m "antoniov1"
+ 2013  git status
+ 2014  git branch Version2
+ 2015  git checkout Version2 
+ 2016  vim Version2.txt
+ 2017  git diff Version2 antonio 
+ 2018  git diff antonio Version2 
+ 2019  man git diff
+ 2020  git status
+ 2021  git add .
+ 2022  git diff antonio Version2 
+ 2023  git commit -m "version2"
+ 2024  git diff antonio Version2 
+ 2025  git diff Version2 antonio 
+ 2026  ls
+ 2027  git branch
+ 2028  git checkout antonio 
+ 2029  man git merge 
+ 2030  git merge antonio Version2 
+ 2031  ls
+ 2032  git branch
+ 2033  git status
+ 2034  git push
+ 2035  git checkout main 
+ 2036  git status 
+ 2037  git checkout antonio 
+ 2038  git push
+ 2039  git push --set-upstream origin antonio 
+ 2040  git checkout Version2 
+ 2041  git checkout antonio 
+ 2042  git branch -d Version2 
+ 2043  git status
+ 2044  git push
+ 2045  history >historial.txt
