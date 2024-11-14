@@ -1,0 +1,10 @@
+(1 punto) Clona el repositorio que se te ha dado en la siguiente URL
+(1 punto) Crea un rama dentro de repositorio cuyo nombre sea tu nombre
+(1 punto) Dentro de esa rama crea un archivo de extenxion txt con los comandos que utilizarás en el examen encriptados con la primera letra de tu apellido https://cifraronline.com/ cuya clave sea v
+(1 punto) Confírmalo con el mensaje “tu nombre v1”
+(1 punto) Dentro de esa rama crea otra rama con un archivo con tu nombre encriptado  que se llame Version2
+(1 punto) Mira la diferencia entre las ramas
+(1 punto) Fusiona las ramas
+(1 punto) Sube los cambios al repositorio remoto
+(1 punto) Elimina la rama en el local
+(1 punto) Elimina la rama en el remoto
